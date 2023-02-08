@@ -1,4 +1,4 @@
-# Elastic jypyter notebook examples
+# Elastic Jupyter notebook examples
 This repo contains jypyter notebook examples for working with elasticsearch
 
 # Current topics include
